@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html template="true"><head>
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+  <title>Melbourne University Mountaineering Club</title>
+
+  
+  
+  <link rel="stylesheet" href="../mumc.css" type="text/css">
+
+</head><body>
+<div class="header"><br>
+</div>
+
+<div class="banner">
+<embed fullscreen="yes" src="file:../banner.swf" height="100%" width="100%">
+<br>
+</div>
+
+<div class="navigation"><a href="../index.html">Home&nbsp; </a>&nbsp;&nbsp;&nbsp;
+<a href="../gallery/index.html">Gallery&nbsp; </a>&nbsp;&nbsp; <a href="../links/index.html">Links&nbsp; </a>&nbsp;&nbsp; <a href="../trips/index.html">Trips&nbsp; </a><br>
+</div>
+
+<div class="pagecontent"><br>
+<h1>Melbourne University Mountaineering Club - Home</h1>
+<br>
+<br>
+</div>
+
+<br>
+
+<br>
+</body></html>
